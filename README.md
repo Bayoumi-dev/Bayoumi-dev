@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m **a passionate frontend web developer**
 - 🌱 I’m currently learning **Next js and React Native**
-- 💬 Ask me about **ahmed15bayoumi@gmail.com**
+- 💬 Ask me about **ahmed@bayoumi.dev**
 - ⚡ Fun fact: **I love listening to music**
 
 
