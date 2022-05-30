@@ -1,4 +1,4 @@
-## Hi there 👋 <img src="https://visitcount.itsvg.in/api?id=Bayoumi-dev&icon=0&color=0" style="display:inline-block;margin:auto auo">
+## Hi there 👋 <img src="https://visitcount.itsvg.in/api?id=Bayoumi-dev&icon=0&color=0" style="display:inline-block;margin:auto auo" width="250" height="20">
 
 <!--
 **Bayoumi-dev/Bayoumi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Next js and React Native**
 - 💬 Ask me about Front-end web development ...
 - 📫 How to reach me: **ahmed@bayoumi.dev**
-- 🌍 Portfolio:[bayoumi.dev](https://bayoumi.dev/)
+- 🌍 Portfolio: [bayoumi.dev](https://bayoumi.dev/)
 - ⚡ Fun fact: **I love listening to music**
 
 <h4>📊GitHub Stats :</h4>
