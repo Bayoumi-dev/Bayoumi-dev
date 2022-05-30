@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: **I love listening to music**
 
 
+### 📊GitHub Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bayoumi-dev&layout=compact)](https://github.com/Bayoumi-dev/github-readme-stats)
+![Bayoumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bayoumi-dev&hide=contribs,issues)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bayoumi-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bayoumi-dev" height="30" width="40" /></a>
