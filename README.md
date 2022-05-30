@@ -1,4 +1,4 @@
-## Hi there 👋 <img src="https://visitcount.itsvg.in/api?id=Bayoumi-dev&icon=0&color=0" style="display:inline-block;margin:auto auo" width="250" height="20">
+## Hi there 👋 <img src="https://visitcount.itsvg.in/api?id=Bayoumi-dev&icon=0&color=0" height="25" style="/* max-width: 100%; */width: 250px !mportant; transform: scale(0.8); margin: 0 0 -7px -30px">
 
 <!--
 **Bayoumi-dev/Bayoumi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
