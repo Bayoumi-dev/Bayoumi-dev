@@ -1,4 +1,4 @@
-## Hi there 👋 <img src="https://visitcount.itsvg.in/api?id=Bayoumi-dev&icon=0&color=0" height="25" style="width: 250px !mportant; transform: scale(0.8); margin: 0 0 -7px -30px;">
+# Hi there 👋 <img src="https://visitcount.itsvg.in/api?id=Bayoumi-dev&icon=0&color=0" height="25" style="width: 250px !mportant; transform: scale(0.8); margin: 0 0 -7px -30px;">
 
 <!--
 **Bayoumi-dev/Bayoumi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,12 +26,12 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayoumi-dev&layout=compact" alt="Bayoumi-dev's stats" height="140" width="350" />
   </figure>
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/bayoumi-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bayoumi-dev" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h4>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
