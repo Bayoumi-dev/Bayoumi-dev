@@ -13,16 +13,17 @@ Here are some ideas to get you started:
 
 
 -->
+
 - 🔭 I’m **a passionate frontend web developer**
 - 🌱 I’m currently learning **Next js and React Native**
 - 💬 Ask me about **ahmed@bayoumi.dev**
 - ⚡ Fun fact: **I love listening to music**
 
-
-### 📊GitHub Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bayoumi-dev&layout=compact)](https://github.com/Bayoumi-dev/github-readme-stats)
-![Bayoumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bayoumi-dev&hide=contribs,issues)
-
+<h4>📊GitHub Stats :</h4>
+  <figure>
+    <img src="https://github-readme-stats.vercel.app/api?username=Bayoumi-dev&hide=contribs,issuesg" alt="Bayoumi's GitHub stats" height="140" width="350" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayoumi-dev&layout=compact" alt="Bayoumi-dev's stats" height="140" width="350" />
+  </figure>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
