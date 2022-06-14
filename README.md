@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 -->
 - 🔭 I’m **a passionate frontend web developer**
-- 🌱 I’m currently learning **Next js and React Native**
+- 🌱 I’m currently learning **NoSQL & MongoDB**
 - 💬 Ask me about Front-end web development ...
 - 📫 How to reach me: **ahmed@bayoumi.dev**
 - 🌍 Portfolio: [**bayoumi.dev**](https://bayoumi.dev/)
